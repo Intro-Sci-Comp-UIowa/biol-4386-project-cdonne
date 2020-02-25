@@ -1,0 +1,3 @@
+Logistic model was built from Isotopic data from known FC and known NFC bear samples 
+
+logit(y)= -13.975+4.132delta15N
