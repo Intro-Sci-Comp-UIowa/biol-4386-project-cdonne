@@ -1,5 +1,5 @@
 # Stable isotopes to detect food-conditioned bears and to evalute human-bear managment 
-In this study Hopkins et al. used stable isotope analysis along with genetic analysis of black bears in Yosemite National Park to determine whether bears were food-conditioned to human food or nonfood-conditioned. This information helped evalute the success of a bear management program that was implamented to lessen bear incidents with campers.   
+In this study Hopkins et al. used stable isotope analysis along with genetic analysis of black bears in Yosemite National Park to determine whether bears were food-conditioned to human food or nonfood-conditioned. This information helped evalute the success of a bear management program that was implemented to lessen bear incidents with campers.   
 
 ## Reference 
 Hopkins III, J. B., Koch, P. L., Schwartz, C. C., Ferguson, J. M., Greenleaf, S. S., & Kalinowski, S. T. (2012). Stable isotopes to detect food‐conditioned bears and to evaluate human‐bear management. The Journal of wildlife management, 76(4), 703-713.
