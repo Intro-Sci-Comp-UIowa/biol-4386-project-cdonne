@@ -1,0 +1,163 @@
+﻿"Supplemental Table 7. Isotope values (d13C and d15N) and predicted management status for unknown bears sampled in Yosemite National Park, CA, USA, 2006–2007. A logistic model calculated the probability of a bear being FC (Probability FC) based on d15N values of their hair. A bear was predicted FC (MGMT status) if its probability of being FC was ³ 0.569; otherwise, it was classified NFC. Recaptures are in bold. ",,,,,,,,
+,,,,,,,,
+ID,Sex,Type,Location,Diet-year,d15N,d13C,,MGMT status
+,,,,,,,Probability FC,
+,,,,,,,,
+Unknown management bear samples (n = 11) ,,,,,,,,
+FC samples = 4; recaptured = 2: 1 recaptured and predicted FC (3097) and 1 originally hair-snared & predicted NFC (134550),,,,,,,,
+NFC samples = 7,,,,,,,,
+2374,M,"hole in ear, no tag",Yosemite Valley,2005,2.9,-22.2,0.12,NFC
+3573,M,Translocated to Badger Pass,Yosemite Valley,2006,3.9,-22.8,0.898,FC
+3097,M,captured in YV,Yosemite Valley,2005,3.6,-22.3,0.728,FC
+3097,M,captured in YV,Yosemite Valley,2006,3.9,-21.8,0.878,FC
+134550,M,broke into High Sierra Camp,Merced Lake,2007,6.3,-22,1,FC
+3566,M,White Wolf resident FC bear?,White Wolf,2005,2.9,-22.7,0.12,NFC
+3063,M,hit by vehicle,Tamarack Flat,2006,2.4,-21.3,0.021,NFC
+3825,F,habituated YV bear,Yosemite Valley,2005,2.6,-22.4,0.04,NFC
+3064,F,hit by vehicle,NA,2006,1.5,-20.7,0,NFC
+3572,F,hit by vehicle,Yosemite Valley,2006,2.7,-21.9,0.054,NFC
+130351,F,hit by vehicle,NA,2006,2.7,-21.5,0.063,NFC
+Unknown hair-snare bear samples (n = 134) ,,,,,,,,
+FC samples = 15 ,,,,,,,,
+NFC samples = 119; recaptured = 13: 11 recaptured and predicted NFC and 2 were recaptured and predicted FC,,,,,,,,
+,,,,,,,,
+134991,M,Neighborhood,Aspen Valley,2006,2.1,-21.5,0.005,NFC
+130088,M,FC Campground,Bridalveil,2006,2.8,-21.6,0.08,NFC
+134840,M,FC Campground,Bridalveil,2006,3,-22.9,0.171,NFC
+130155,M,Neighborhood,Foresta,2006,4.8,-22.2,0.997,FC
+134819,M,Neighborhood,Foresta,2006,1.8,-23.1,0.002,NFC
+134819,M,FC Campground,Tamarack,2007,3,-23.3,0.189,NFC
+134692,M,Neighborhood,Foresta,2006,2.2,-23.1,0.007,NFC
+130204,M,BC Campsite,Lyell Canyon,2005,1.9,-21.4,0.002,NFC
+130204,M,Wild,Mono Pass,2007,2.5,-21.2,0.031,NFC
+134801,M,FC Campground,Tuolumne,2005,2.5,-22.5,0.029,NFC
+134797,M,BC Campground,May Lake,2006,2.1,-24,0.004,NFC
+134844,M,FC Campground,Bridalveil,2006,3.1,-22.8,0.23,NFC
+117894,M,Neighborhood,Aspen Valley,2005,2.8,-23.3,0.083,NFC
+198732,M,Neighborhood,Aspen Valley,2006,4.1,-20.7,0.947,FC
+198737,M,Neighborhood,Aspen Valley,2006,2.6,-21.8,0.041,NFC
+134715,M,FC Campground,Bridalveil,2006,2.4,-23.2,0.018,NFC
+117908,M,FC Campground,Crane Flat,2005,2.4,-22.4,0.016,NFC
+117799,M,FC Campground,Crane Flat,2005,3.5,-23,0.648,FC
+130069,M,FC Campground,Crane Flat,2006,3.1,-21.8,0.223,NFC
+130069,M,FC Campground,Hogdon,2007,3.8,-23.1,0.849,FC
+130062,M,Neighborhood,Foresta,2006,3.6,-22.8,0.751,FC
+198801,M,FC Campground,East Valley,2006,1.7,-22.7,0.001,NFC
+198771,M,FC Campground,Hogdon,2006,2.2,-21.9,0.008,NFC
+134694,M,FC Campground,Crane Flat,2006,3.4,-22.8,0.529,NFC
+117763,M,BC Campground,Merced Lake,2005,0.9,-24.1,0,NFC
+134515,M,BC Campsite,Pate Valley,2006,3,-23,0.149,NFC
+198758,M,BC Campsite,Pate Valley,2006,2.9,-22.8,0.134,NFC
+198759,M,BC Campsite,Pate Valley,2006,2.4,-22.7,0.016,NFC
+134514,M,BC Campsite,Pate Valley,2006,2.1,-22.9,0.005,NFC
+130181,M,Wild,West Valley,2005,3.1,-22.5,0.223,NFC
+130183,M,Wild,West Valley,2005,2.3,-22,0.012,NFC
+117659,M,BC Campground,Sunrise,2005,2.9,-21.9,0.124,NFC
+134550,M,BC Campground,Sunrise,2006,1.7,-22,0.001,NFC
+130422,M,FC Campground,Tamarack,2006,2.3,-23,0.014,NFC
+198764,M,Wild,Tuolumne Canyon,2006,2.2,-23.5,0.008,NFC
+130079,M,FC Campground,Wawona,2006,2.7,-21.5,0.068,NFC
+134849,M,FC Campground,Wawona,2006,1.9,-21.9,0.002,NFC
+117852,M,Wild,West Valley,2005,2.8,-23.1,0.089,NFC
+130272,M,Wild,West Valley,2005,1.7,-23.4,0.001,NFC
+130272,M,FC Campground,East Valley,2006,2.7,-21.2,0.056,NFC
+130199,M,Wild,West Valley,2005,3.3,-23.2,0.416,NFC
+117851,M,Wild,West Valley,2005,2.2,-21.1,0.008,NFC
+117784,M,BC Campsite,Young Lakes,2005,1.6,-22.4,0.001,NFC
+108366,M ,BC Campsite,Pate Valley,2006,1.4,-22,0,NFC
+108368,M ,FC Campsite,Porcupine,2006,2.2,-22.9,0.006,NFC
+108368,M,BC Campsite,Ostrander,2007,2.7,-23,0.056,NFC
+108369,M,FC Campsite,Porcupine,2006,2.5,-21.2,0.028,NFC
+125599,M ,FC Campground,Yosemite Creek,2007,3.6,-21.6,0.719,FC
+125742,M ,BC Campsite,Pate Valley,2007,3,-22.6,0.202,NFC
+125746,M ,BC Campsite,Pate Valley,2007,0.5,-23,0,NFC
+125748,M,BC Campsite,Pate Valley,2006,1.3,-22.4,0,NFC
+125752,M ,BC Campsite,Ten Lakes,2007,1.3,-21.7,0,NFC
+125801,M ,Wild,Tuolumne Canyon,2007,2.3,-22.1,0.012,NFC
+125849,M ,FC Campground,Crane Flat,2007,3.6,-22.9,0.667,FC
+130008,M ,FC Campground,Wawona,2007,1.7,-22.5,0.001,NFC
+130142,M ,Wild,Mono Pass,2007,3.5,-21.5,0.657,FC
+130295,M ,FC Campground,Bridalveil,2007,2.4,-21.1,0.014,NFC
+138675,M ,BC Campsite,Cloud's Rest,2006,3.5,-20.4,0.59,FC
+162625,M ,BC Campsite,Rancheria,2007,2.2,-21.7,0.007,NFC
+162635,M ,Neighborhood,Aspen Valley,2007,3.3,-23.5,0.436,NFC
+162807,M ,BC Campsite,Pate Valley,2006,2.8,-22.9,0.086,NFC
+162951,M ,FC Campsite,Porcupine,2007,3.4,-22.5,0.487,NFC
+163347,M ,Neighborhood,Foresta,2006,3.6,-22.2,0.736,FC
+163349,M ,FC Campground,Crane Flat,2006,2.3,-23.2,0.01,NFC
+163353,M ,FC Campground,White Wolf,2006,2.5,-23.4,0.024,NFC
+198633,M ,FC Campground,Hetch-Hetchy,2007,3.2,-23.3,0.338,NFC
+198644,M ,Neighborhood,Yosemite West,2007,1.8,-22.2,0.002,NFC
+198847,M ,Wild,West Valley,2006,3.6,-20.3,0.728,FC
+550628,M,Wild,West Valley,2007,1.4,-22.9,0,NFC
+144300,F,Neighborhood,Aspen Valley,2005,3.1,-22,0.216,NFC
+117666,F,BC Campsite,Cloud's Rest,2005,2.7,-21,0.05,NFC
+117651,F,FC Campground,East Valley,2005,1.8,-21.7,0.002,NFC
+130188,F,FC Campground,East Valley,2005,2,-20.8,0.004,NFC
+130188,F,BC Campground,LYV,2006,4.1,-19.4,0.96,FC
+198704,F,FC Campground,East Valley,2007,2.8,-21.5,0.083,NFC
+117695,F,BC Campground,Glen Aulin ,2006,0.6,-22.9,0,NFC
+117623,F,BC Campground,Glen Aulin ,2005,2.8,-21.5,0.086,NFC
+134836,F,FC Campground,Hetch-Hetchy,2006,3.2,-22.3,0.302,NFC
+134803,F,FC Campground,Hetch-Hetchy,2006,3.1,-21.9,0.253,NFC
+134977,F,BC Campsite,Lake Eleanor,2006,2.6,-22.1,0.046,NFC
+134977,F,BC Campsite,Lake Eleanor,2007,2.3,-21.6,0.012,NFC
+117889,F,Neighborhood,Aspen Valley,2005,3.2,-23.8,0.357,NFC
+134955,F,FC Campground,Bridalveil,2006,1.9,-21.2,0.002,NFC
+134718,F,FC Campground,Bridalveil,2006,2.6,-22.4,0.043,NFC
+134507,F,BC Campsite,Cloud's Rest,2006,1.6,-21.8,0.001,NFC
+198724,F,FC Campground,Crane Flat,2006,2.9,-21.4,0.116,NFC
+198706,F,FC Campground,East Valley,2006,3.6,-22.1,0.685,FC
+198793,F,FC Campground,East Valley,2006,2.9,-21.7,0.139,NFC
+134804,F,FC Campground,Hetch-Hetchy,2006,3.4,-22.7,0.539,NFC
+198773,F,FC Campground,Hogdon,2006,1.7,-20.8,0.001,NFC
+117697,F,BC Campsite,Lake Eleanor,2005,2.7,-20.6,0.056,NFC
+198730,F,FC Campground,Crane Flat,2006,2.2,-21.3,0.007,NFC
+198653,F,BC Campground,Merced Lake,2006,1.6,-23,0.001,NFC
+198653,F,BC Campground,Merced Lake,2007,2.2,-20.7,0.007,NFC
+134700,F,BC Campsite,Ostrander,2006,2,-21.3,0.004,NFC
+117611,F,BC Campsite,Pate Valley,2005,2.5,-21.8,0.022,NFC
+117793,F,BC Campsite,Pate Valley,2006,-0.2,-23,0,NFC
+130174,F,Wild,Ribbon Creek,2005,2.1,-21,0.005,NFC
+130092,F,FC Campground,Tamarack,2005,2.1,-21.1,0.006,NFC
+134796,F,BC Campsite,Ten Lakes,2006,2.4,-22.4,0.017,NFC
+134796,F,FC Campground,Yosemite Creek,2007,2.8,-21.7,0.068,NFC
+130082,F,FC Campground,Wawona,2005,1.3,-21.4,0,NFC
+134733,F,FC Campground,Wawona,2006,2.4,-23.2,0.015,NFC
+130275,F,Wild,East Valley,2006,2.1,-21.3,0.004,NFC
+130275,F,Wild,West Valley,2007,1.1,-22.5,0,NFC
+198816,F,Wild,West Valley,2005,2.1,-21.3,0.004,NFC
+198780,F,Wild,West Valley,2006,2.3,-21.2,0.013,NFC
+117649,F,FC Campground,White Wolf,2005,2.2,-21.7,0.008,NFC
+117649,F,FC Campground,White Wolf,2006,2.6,-21.5,0.04,NFC
+134731,F,Neighborhood,Yosemite West,2006,1.9,-22.2,0.002,NFC
+134967,F,Neighborhood,Yosemite West,2006,2.4,-22.3,0.014,NFC
+134967,F,Neighborhood,Yosemite West,2007,2.4,-20,0.021,NFC
+117673,F,BC Campsite,Young Lakes,2005,2.3,-21.4,0.011,NFC
+117673,F,BC Campsite,Young Lakes,2006,2,-21.6,0.004,NFC
+108387,F ,BC Campsite,Young Lakes,2006,2.5,-21.3,0.03,NFC
+117740,F,Neighborhood,Yosemite West,2007,2.4,-22.5,0.017,NFC
+117749,F ,BC Campsite,Pate Valley,2007,4.3,-21.9,0.978,FC
+125733,F,FC Campground,East Valley,2007,2.9,-21,0.107,NFC
+125814,F ,FC Campground,White Wolf,2006,3,-22.2,0.165,NFC
+130106,F ,Wild,Mono Pass,2006,1.6,-22.6,0.001,NFC
+130141,F ,BC Campground,Vogelsang,2006,2.5,-20.1,0.022,NFC
+130699,F ,Wild,West Valley,2007,1.8,-19.9,0.002,NFC
+130931,F,Wild,Mono Pass,2007,1.9,-22,0.002,NFC
+134571,F ,Wild,Ribbon Creek,2006,1.9,-21.6,0.003,NFC
+134662,F,BC Campsite,Cloud's Rest,2006,3.3,-21.9,0.426,NFC
+134945,F ,Wild,West Valley,2007,3.1,-20.7,0.209,NFC
+138670,F ,BC Campground,Merced Lake,2006,2,-20.3,0.003,NFC
+138678,F ,BC Campsite,Cloud's Rest,2006,2.7,-21.8,0.048,NFC
+138688,F ,Wild,Ribbon Creek,2006,2.5,-20,0.021,NFC
+162627,F ,FC Campground,Hetch-Hetchy,2007,3.1,-20,0.216,NFC
+162680,F ,Neighborhood,El Portal,2007,2.9,-21.5,0.112,NFC
+162697,F ,BC Campsite,Lyell Canyon,2006,2.3,-19.9,0.01,NFC
+162801,F ,BC Campsite,Pate Valley,2006,4.5,-22.5,0.991,FC
+198566,F ,Wild,Ribbon Creek,2006,2.5,-20.6,0.023,NFC
+UNKN MEAN,,,,,2.6,-22,,
+1 SD,,,,,0.8,0.9,,
+FC MEAN ,,,,,4,-21.9,,
+1 SD,,,,,0.7,1,,
+NFC MEAN,,,,,2.3,-22,,
+1 SD,,,,,0.6,0.9,,
