@@ -1,9 +1,9 @@
 # Data 
 
 - Table 2 was retrieved on 2/26/20 from the Methods section of the paper. 
-	-The table was copied and posted into a blank Excel file. This was the saved as a .csv file.
-        - This file was uploaded to the GitHub remote data repository with the commit message of “known FC and predicted FC data”
-        - This table contains all the food-conditioned bears’ data.
+   - The table was copied and posted into a blank Excel file. This was the saved as a .csv file.
+   - This file was uploaded to the GitHub remote data repository with the commit message of “known FC and predicted FC data”
+   - This table contains all the food-conditioned bears’ data.
    
 
 - All supplmentary tables were retrieved from the online version of the paper, https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.318. 
