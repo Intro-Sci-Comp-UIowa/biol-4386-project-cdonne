@@ -1,4 +1,4 @@
-![raw data](Images/observations2.jpeg) 
+![raw data](Observations 2.jpeg) 
 
 
-![estimated mixing space](Images/mixingsapce2.jpeg) 
+![estimated mixing space](mixing space 2.jpeg) 
