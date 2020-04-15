@@ -1,4 +1,4 @@
-![raw data](output/Images/observations/2.jpeg) 
+![]( https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/output/Images/observations%202.jpeg)
 
 
-![estimated mixing space](file://mixing space 2.jpeg) 
+![](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/output/Images/mixing%20space%202.jpeg)
