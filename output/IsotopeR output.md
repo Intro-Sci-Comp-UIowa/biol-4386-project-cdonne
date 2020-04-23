@@ -31,8 +31,19 @@ The plot of the raw values looks good! I took out the measurment error file as t
  
 ![](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/output/Images/observations%204.png)
 
-The plot of the estimated mixing space looks good! I compared the estimated  values of each source that was given in the IsotopeR output to the ones in the paper and they are almost excat! I have a smaller standard deviation (SD) than the paper but I do not know why.
+The plot of the estimated mixing space looks good! I compared the estimated  values of each source that was given in the IsotopeR output to the ones in the paper and they are almost exact! Although, I have a smaller standard deviation (SD) than the paper but I do not know why.
  
 ![](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/output/Images/mixing%20space%204.png)
 
-This is the output that IsotopeR provided. As stated above, the estimated valuesfrom IsotopeR match the ones in the paper besides a smaller SD
+This is the output that IsotopeR provided. As stated above, the estimated valuesfrom IsotopeR match the ones in the paper besides a smaller SD. It is the mean value I am trying to match to the paper
+
+![](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/output/Images/IsotopeR%20output.jpg)
+
+
+## Final Figure 
+
+After contacting the author of the paper again I have been informed that the published figure used the raw data points for the consumers instead of consumers that were estimated in the estimated mixing space plot. He does not remember how they did that so I used ImageJ to overlay the 2 plots. 
+Check out `/script` for the ImageJ markdown file
+The y and x axis are both shorter than the published figure but I do not know how to change that as that is not a parameter that can be adjusted from the main menu of IsotopeR
+
+![](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/output/Images/final%20figure.png)
