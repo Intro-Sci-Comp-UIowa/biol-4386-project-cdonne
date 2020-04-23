@@ -44,5 +44,5 @@
 
 - Note: As seen with Supplmentary table 7, columns or rows could be shifted when converting the file type. It is important to check the file after conversion to ensure the data lines up properly.
 
-- 2 files for IsotopeR were uploaded on 4/3/2020. These files are the necessary files to run IsotopeR for it to estimate the mixing space. Other files are optional and depend on the project. For this project two more files (Concentrations and Discrimation Error) will be added at a later time as the data continues to be organized and prepared for upload to IsotopeR.
+
    
