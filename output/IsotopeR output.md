@@ -40,10 +40,4 @@ This is the output that IsotopeR provided. As stated above, the estimated values
 ![](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/output/Images/IsotopeR%20output.jpg)
 
 
-## Final Figure 
 
-After contacting the author of the paper again I have been informed that the published figure used the raw data points for the consumers instead of consumers that were estimated in the estimated mixing space plot. He does not remember how they did that so I used ImageJ to overlay the 2 plots. 
-Check out `/script` for the ImageJ markdown file
-The y and x axis are both shorter than the published figure but I do not know how to change that as that is not a parameter that can be adjusted from the main menu of IsotopeR
-
-![](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/output/Images/final%20figure.png)
