@@ -40,4 +40,6 @@ This is the output that IsotopeR provided. As stated above, the estimated values
 ![](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/output/Images/IsotopeR%20output.jpg)
 
 
+This is the final reproduced figure. The GUI doesn't allow the data points from the Observations plot to be combined with the Esimtated Mixing Space plot. To create this figure, I had to use the IsotopeR code instead of the GUI.  In the `script` folder, the FinalFigure.Rmd file will allow anyone to produce this output.   
 
+![](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/output/Images/FinalOutput.jpeg)
