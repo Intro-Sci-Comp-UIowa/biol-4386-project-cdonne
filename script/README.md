@@ -13,6 +13,9 @@
 
 After calling the GUI in R, I ran my files through to create a SampleOutput.Rdata file that I could load into my environment. This allowed all the parameters to be set up for this dataset. Looking through the IsotopeRgui.R script I am trying to see if there is a way I can use that to only plot the mixing space and then plot the mixture values over that.
 
-##5/2/20 
+## 5/2/20 
 
 By combining the IsotopeRgui.R and Plot_jags.R scripts I was able to reproduce the figure. I have written the markdown file, FinalFigure.Rmd, that contains the combined scripts and will output the reproduced figure. SampleOutput.Rdata is needed to run the script.  
+
+### Note
+It is not necessary for the user to call the IsotopeR GUI as all the model parameters will be set from the SampleOutput.Rdata file  
