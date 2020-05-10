@@ -1,13 +1,15 @@
 ---
-
 title: "Finalfigure"
 output: html_document
+---
 
-##Directions for using IsotopeR scripts to reproduce Figure 5 from Hopkins et al. 2012 
-##Based on scripts IsotopeRgui.R and Plot_jags.R by Jake Ferguson 
-##before running the code, need to load in data found here,  https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/script/SampleOutput.Rdata
-##To clone the entire Github repository, https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne.git 
+## Directions for using IsotopeR scripts to reproduce Figure 5 from Hopkins et al. 2012 
 
+- Based on scripts IsotopeRgui.R and Plot_jags.R by Jake Ferguson 
+- before running the code, need to load in data found here,  https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne/blob/master/script/SampleOutput.Rdata
+- To clone the entire Github repository, https://github.com/Intro-Sci-Comp-UIowa/biol-4386-project-cdonne.git 
+
+```{r}
 load("SampleOutput.Rdata")
 
 ##Need to produce "Estimated mixing space plot" first and then plot the indiviual points 
@@ -319,7 +321,6 @@ points(-17.2,8.8)
 text(-18,9, "100% human food",2)
 
 text(-15,2,"100% plants and animals", 1)
-
 ---
 
 
